@@ -1,6 +1,6 @@
 {
     "name": "@guiantz/kalendar-vue",
-    "version": "2.1.1",
+    "version": "2.1.2",
     "description": "",
     "private": false,
     "main": "dist/index.js",
